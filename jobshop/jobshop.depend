@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1526283397 source:d:\code\jobshop\main.cpp
+	<iostream>
+	"evolution.h"
+
+1526295888 d:\code\jobshop\evolution.h
+
+1526219015 source:d:\code\jobshop\evolution.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"evolution.h"
+
+1526275522 source:d:\code\jobshop\input.cpp
+	<cstdio>
+	<cstring>
+	"evolution.h"
+
+1526271845 source:d:\code\jobshop\init.cpp
+	"evolution.h"
+
+1526271839 source:d:\code\jobshop\lsort.cpp
+
+1526280714 source:d:\code\jobshop\output.cpp
+	"evolution.h"
+	<cstdio>
+
+1526295698 source:d:\code\jobshop\decode.cpp
+	"evolution.h"
+	<cstring>
+
+1526283602 source:d:\code\jobshop\test.cpp
+	"evolution.h"
+	"cstring"
+
